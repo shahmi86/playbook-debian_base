@@ -1,0 +1,4 @@
+---
+lang: en
+timezone: Asia/singapore
+enable_unattended_upgrades: yes
